@@ -99,7 +99,7 @@ const WeeklyPairing = ({ apiUrl }) => {
   );
 };
 WeeklyPairing.propTypes = {
-  apiUrl: PropTypes.string.isRequired, // Validate apiUrl as a required string
+  apiUrl: PropTypes.string.isRequired, 
 };
 
 export default WeeklyPairing;

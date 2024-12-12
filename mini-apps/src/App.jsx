@@ -6,7 +6,9 @@ import "./App.css";
 // import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
-  return <WeeklyPairing apiUrl="http://localhost:3000" />;
+  return (
+    <WeeklyPairing apiUrl="https://web-weekly-friends-generator.onrender.com" />
+  );
 }
 
 export default App;
