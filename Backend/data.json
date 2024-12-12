@@ -1,0 +1,23 @@
+{
+  "users": [
+    "Jiru",
+    "Alpha",
+    "Ashenafi",
+    "Lamesgen",
+    "sisay",
+    "Bilean",
+    "Abigiya",
+    "Ephraim"
+  ],
+  "admin": {
+    "name": "Jiru",
+    "password": "1234"
+  },
+  "pairs": [
+    ["Jiru", "Abigiya"],
+    ["Alpha", "Ashenafi"],
+    ["Lamesgen", "sisay"],
+    ["Bilean", "No Partner"]
+  ],
+  "lastUpdated": "2024-12-12T07:00:08.989Z"
+}
